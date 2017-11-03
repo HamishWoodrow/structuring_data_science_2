@@ -1,12 +1,11 @@
 # structuring_data_science_2
 A secondary method for structuring online data science resources.
-
-Code to be uploaded soon (undergoing improvements).
-
 A video presenting the project and initial results is below:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tpAQ-9vlJtw" target="_blank"><img src="http://img.youtube.com/vi/tpAQ-9vlJtw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+CODE TO BE UPLOADED SOON
 
 ### Overview of Methods Used
 Used topic modeling to relate technical resources to one another.  Extracting the fundamental concepts in a text and creating links to other resources by their concept similarities. Allowing a user to read a journal and directly see videos or blogs covering those same concepts.
